@@ -41,7 +41,7 @@ const Home = () => {
                   </p>
 
                   <button className="btn">
-                    Request an Appointment
+                    Request an Appointments
                   </button>
                 </div>
 
